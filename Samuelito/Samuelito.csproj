@@ -75,6 +75,12 @@
     <Compile Include="Form2.Designer.cs">
       <DependentUpon>Form2.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormVIVI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVIVI.Designer.cs">
+      <DependentUpon>FormVIVI.cs</DependentUpon>
+    </Compile>
     <Compile Include="Model1.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

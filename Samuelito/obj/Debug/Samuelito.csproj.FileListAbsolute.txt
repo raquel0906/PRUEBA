@@ -10,3 +10,6 @@ c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\obj\De
 c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\bin\Debug\EntityFramework.dll
 c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\bin\Debug\EntityFramework.xml
 c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\obj\Debug\Samuelito.Form2.resources
+C:\Users\Vivi\Proyecto2\PRUEBA\Samuelito\bin\Debug\Samuelito.exe.config
+C:\Users\Vivi\Proyecto2\PRUEBA\Samuelito\obj\Debug\Samuelito.exe
+C:\Users\Vivi\Proyecto2\PRUEBA\Samuelito\obj\Debug\Samuelito.pdb
