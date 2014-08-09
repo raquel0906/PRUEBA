@@ -1,0 +1,12 @@
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\bin\Debug\Samuelito.exe.config
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\bin\Debug\Samuelito.exe
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\bin\Debug\Samuelito.pdb
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\obj\Debug\Samuelito.csprojResolveAssemblyReference.cache
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\obj\Debug\Samuelito.Form1.resources
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\obj\Debug\Samuelito.Properties.Resources.resources
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\obj\Debug\Samuelito.csproj.GenerateResource.Cache
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\obj\Debug\Samuelito.exe
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\obj\Debug\Samuelito.pdb
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\bin\Debug\EntityFramework.dll
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\bin\Debug\EntityFramework.xml
+c:\users\raquel\documents\visual studio 2012\Projects\Samuelito\Samuelito\obj\Debug\Samuelito.Form2.resources
